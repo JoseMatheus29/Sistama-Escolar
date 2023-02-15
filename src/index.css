@@ -1,0 +1,28 @@
+body {
+  margin: 0px;
+  }
+.box {
+    display: flex;
+    justify-content: space-around;
+    
+  }
+.boxChildren {
+    display: flex;
+    text-align: center;
+}
+a:link {
+  color: #FFF;
+ }
+
+ h1{
+  text-align: center;
+ }
+ table, th, td {
+  text-align: center;
+  border-collapse: collapse;
+  color: black;
+  border: 1px solid;
+  padding-left: 50px;  
+  padding-right: 50px;
+}
+
